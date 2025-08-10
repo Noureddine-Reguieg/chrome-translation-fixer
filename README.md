@@ -1,9 +1,5 @@
 # chrome-translation-fixer
 
-[![GitHub license](https://img.shields.io/github/license/YourUsername/chrome-translation-fixer)](https://github.com/YourUsername/chrome-translation-fixer/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/chrome-translation-fixer)](https://github.com/YourUsername/chrome-translation-fixer/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/chrome-translation-fixer)](https://github.com/YourUsername/chrome-translation-fixer/network/members)
-
 This extension automatically corrects text direction (RTL/LTR) to align with the new language of a translated webpage, while also providing manual controls.
 تُصلح هذه الإضافة اتجاه النصوص تلقائيًا (RTL/LTR) لتتوافق مع لغة صفحة الويب الجديدة بعد ترجمتها، كما توفر أدوات للتحكم اليدوي في الاتجاه.
 
