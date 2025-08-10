@@ -1,6 +1,7 @@
 # chrome-translation-fixer
 
 This extension automatically corrects text direction (RTL/LTR) to align with the new language of a translated webpage, while also providing manual controls.
+
 تُصلح هذه الإضافة اتجاه النصوص تلقائيًا (RTL/LTR) لتتوافق مع لغة صفحة الويب الجديدة بعد ترجمتها، كما توفر أدوات للتحكم اليدوي في الاتجاه.
 
 
